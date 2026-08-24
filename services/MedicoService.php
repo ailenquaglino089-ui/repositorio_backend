@@ -1,4 +1,5 @@
 <?php
+// Reglas de negocio de médicos en la variante backend.
 // ============================================================
 // services/MedicoService.php - Capa de negocio (lógica de aplicación)
 // ============================================================

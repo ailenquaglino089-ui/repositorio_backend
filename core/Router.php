@@ -1,4 +1,5 @@
 <?php
+// Enrutador HTTP de la copia independiente del backend.
 // ============================================================
 // core/Router.php - Enrutador de URLs
 // ============================================================

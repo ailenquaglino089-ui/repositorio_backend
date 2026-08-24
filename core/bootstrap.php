@@ -1,4 +1,5 @@
 <?php
+// Inicialización de dependencias del backend separado.
 // ============================================================
 // core/bootstrap.php - Archivo de arranque (bootstrap) del sistema
 // ============================================================

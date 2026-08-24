@@ -1,4 +1,5 @@
 <?php
+// Punto de entrada de la API del backend separado.
 // Punto de entrada principal del proyecto (Front Controller / Controlador Frontal)
 // Todas las peticiones HTTP llegan aquí gracias al .htaccess
 

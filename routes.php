@@ -1,4 +1,5 @@
 <?php
+// Registro de endpoints disponibles en el backend separado.
 // ============================================================
 // routes.php - Definición de rutas del proyecto
 // ============================================================

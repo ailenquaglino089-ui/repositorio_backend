@@ -1,4 +1,5 @@
 <?php
+// Persistencia PDO de médicos en la variante backend.
 // ============================================================
 // persistence/MedicoRepository.php - Capa de persistencia
 // ============================================================

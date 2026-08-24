@@ -1,4 +1,5 @@
 <?php
+// Controlador JSON de médicos del backend separado.
 // ============================================================
 // controllers/MedicoController.php - Capa de controlador HTTP
 // ============================================================
