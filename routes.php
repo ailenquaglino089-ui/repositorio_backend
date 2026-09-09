@@ -29,7 +29,7 @@ $router->get('/', function () {
 $router->get('/medicos', function () use ($medicoService) {
     $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
     $medicos = $medicoService->obtenerTodos();
-    include __DIR__ . '/lista_medicos.php';
+    include __DIR__ . '/../repositorio_web/lista_medicos.php';
 });
 
 // ============================================================
